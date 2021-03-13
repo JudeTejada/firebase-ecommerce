@@ -1,14 +1,14 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-const ShopPage = (props) => {
+const HomePage = (props) => {
   return (
     <div>
-      <h1>SHOP PAGE</h1>
+      <h1>HOME PAGE</h1>
     </div>
   );
 };
 
-ShopPage.propTypes = {};
+HomePage.propTypes = {};
 
-export default ShopPage;
+export default HomePage;
